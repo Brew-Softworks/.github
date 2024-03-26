@@ -2,6 +2,7 @@
 Brew Softworks is a development team who work on numerous projects, ranging from
 <p>🔒 Reverse Engineering projects</p>
 <p>🌐 Networking projects</p>
+<p>📜 Game modding</p>
 
 and more!
 
